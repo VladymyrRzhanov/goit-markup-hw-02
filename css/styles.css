@@ -169,7 +169,8 @@ li {
   background-color: var(--light-background-color);
 }
 
-.category-button:hover {
+.category-button:hover,
+.category-button:focus {
   color: var(--white-color);
   background-color: var(--accent-color);
 }
